@@ -1,4 +1,4 @@
-# Audio & Video Streaming Engine in Java Spring Boot 
+# Audio & Video Streaming Engine in Java Spring Boot & Apache Kafka
 ### (Still in development in progress)
 
 ### Audio & Video Streaming project structure looks like this:
